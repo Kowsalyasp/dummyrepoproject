@@ -25,7 +25,7 @@ public class Activator implements BundleActivator {
         System.out.println("abc the bundle");
     }
     public void run(BundleContext context) {
-        System.out.println("Starting the bundle");
+        System.out.println("abc the bundle");
     }
     public void stop(BundleContext context) {
         System.out.println("Stopping the bundle");
