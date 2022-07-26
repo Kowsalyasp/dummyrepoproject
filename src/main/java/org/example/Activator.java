@@ -22,7 +22,7 @@ import org.osgi.framework.BundleContext;
 public class Activator implements BundleActivator {
 
     public void start(BundleContext context) {
-        System.out.println("Starting the bundle");
+        System.out.println("abc the bundle");
     }
     public void run(BundleContext context) {
         System.out.println("Starting the bundle");
